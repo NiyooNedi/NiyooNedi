@@ -1,8 +1,8 @@
-## 👋 Hi there, I'm Niyoo
+# 👋 Hi there, I'm Niyoo
 
-🎓 Computer Science '27 @ Boston University
-💻 Building full-stack & AI-powered applications  
-📍 Interested in backend systems, APIs, and real-time data  
+🎓 Computer Science '27 @ Boston University<br>
+💻 Building full-stack & AI-powered applications<br>
+📍 Interested in backend systems, APIs, and real-time data 
 
 ---
 
