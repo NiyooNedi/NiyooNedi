@@ -13,12 +13,6 @@
 
 ---
 
-## 🔗 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link)
-- 📧 niyoo.nedi1@gmail.com
-
----
-
 ## 🧠 Languages & Tools
 
 ![Java](https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=java)
