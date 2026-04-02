@@ -36,18 +36,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Niyoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=NiyooNedi&show_icons=true&theme=default)
-
----
-
-## 🔥 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiyooNedi&layout=compact)
-
----
-
 ## 📌 Pinned Projects
 
 - 📈 **Stock Ticker App** – Real-time stock visualization using Java + AlphaVantage  
