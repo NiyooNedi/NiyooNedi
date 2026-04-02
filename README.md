@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Niyoo
+## 👋 Hi there, I'm Niyoo
 
 🎓 Computer Science '27 @ Boston University
 💻 Building full-stack & AI-powered applications  
