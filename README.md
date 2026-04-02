@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Niyoo
 
-🎓 Computer Science @ Boston University; Class of 2027
+🎓 Computer Science '27 @ Boston University
 💻 Building full-stack & AI-powered applications  
 📍 Interested in backend systems, APIs, and real-time data  
 
